@@ -1,0 +1,40 @@
+"AT3_1m4_01.tif            AT3_1m4_02.tif
+           AT3_1m4_03.tif            AT3_1m4_04.tif
+           AT3_1m4_05.tif            AT3_1m4_06.tif
+           AT3_1m4_07.tif            AT3_1m4_08.tif
+           AT3_1m4_09.tif            AT3_1m4_10.tif
+               autumn.tif                   bag.png
+                blobs.png                 board.tif
+            cameraman.tif                 canoe.tif
+                 cell.tif                circbw.tif
+              circles.png               circuit.tif
+                coins.png         concordaerial.png
+    concordorthophoto.png                 eight.tif
+               fabric.png              football.jpg
+               forest.tif           gantrycrane.png
+                glass.png                greens.jpg
+              hestain.png                  kids.tif
+          liftingbody.png                  logo.tif
+                  m83.tif                 mandi.tif
+                 moon.tif                   mri.tif
+             office_1.jpg              office_2.jpg
+             office_3.jpg              office_4.jpg
+             office_5.jpg              office_6.jpg
+                onion.png                paper1.tif
+                pears.png               peppers.png
+             pillsetc.png                  pout.tif
+                 rice.png                saturn.png
+               shadow.tif            snowflakes.png
+                spine.tif                  tape.png
+             testpat1.png                  text.png
+                 tire.tif                tissue.png
+                trees.tif     westconcordaerial.png
+westconcordorthophoto.png"
+
+"Flip any image without using any built-in function.
+Flip any image upside down without the use of any built-in function.
+Make Negative image (Without the use of built-in function)
+Plot Histogram of a grayscale image.
+Plot Histogram of a color image.
+Obtain two images with low contrast (light and dark) and high contrast and plot respective histograms. Observe the difference.
+(Further problems to be added later)"
